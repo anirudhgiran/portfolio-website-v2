@@ -1,0 +1,23 @@
+[
+    {
+        "id": "twitter-spoof",
+        "heading" : "Twitter Spoof",
+        "details": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore veniam aspernatur ipsam sint perspiciatis voluptatum impedit suscipit corporis ea fuga!",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore veniam aspernatur ipsam sint perspiciatis voluptatum impedit suscipit corporis ea fuga!"
+        ],
+        "technologies": ["reactjs.png", "firebase.png", "sass.png", "vs-code-logo.svg"]
+    },
+    {
+        "id": "one-color-ui",
+        "heading": "One Color UI",
+        "details": ["Details go here"],
+        "technologies":["html.png","css.png","javascript.svg"]
+    },
+    {
+        "id": "tmdb-app",
+        "heading": "TMDB App",
+        "details": ["Details go here"],
+        "technologies":["angularjs.png","sass.png","typescript-logo.svg"]
+    }
+]

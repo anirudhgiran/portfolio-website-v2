@@ -1,0 +1,25 @@
+@import "../../../styles/color";
+
+nav {
+    position: relative;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    a {
+        position: relative;
+        text-decoration: none;
+        color: $accent-color;
+        padding: 3px 8px;
+        margin-left: 20px;
+        font-size: 18px;
+        border-radius: 8px;
+    }
+
+    .navlink-active {
+        background-color: $text-light;
+        color: $text-dark;
+    }
+}
